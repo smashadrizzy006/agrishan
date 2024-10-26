@@ -1,0 +1,82 @@
+{
+    "company": {
+      "name": "Agrishan Limited",
+      "tagline": "Your trusted partner in agricultural solutions and sustainable farming",
+      "phone": "+254 791610136",
+      "email": "agrishanlimited@gmail.com",
+      "address": "Nairobi, Kenya",
+      "socialMedia": {
+        "facebook": "https://facebook.com/agrishanlimited",
+        "twitter": "https://twitter.com/agrishanlimited",
+        "instagram": "https://instagram.com/agrishanlimited"
+      }
+    },
+    "projects": [
+      {
+        "id": 1,
+        "title": "Modern Greenhouse Installation",
+        "location": "Laikipia County",
+        "description": "Installation of a 2-acre modern greenhouse with automated irrigation systems and climate control, increasing crop yield by 150%",
+        "image": "/src/assets/images/greenhouse.jpeg",
+        "category": "Greenhouse",
+        "results": "150% increase in crop yield",
+        "completion": "2023"
+      },
+      {
+        "id": 2,
+        "title": "Drip Irrigation System",
+        "location": "Isiolo County",
+        "description": "Complete drip irrigation setup for a 5-acre horticultural farm, reducing water usage by 60% while improving crop quality",
+        "image": "/src/assets/images/drip.jpeg",
+        "category": "Irrigation",
+        "results": "60% reduction in water usage",
+        "completion": "2023"
+      },
+      {
+        "id": 3,
+        "title": "Borehole Drilling Project",
+        "location": "Tharaka Nithi County",
+        "description": "200-meter deep borehole with solar-powered pump installation, providing sustainable water access to a 50-acre farm",
+        "image": "/src/assets/images/borehole.jpeg",
+        "category": "Water Solutions",
+        "results": "Sustainable water access for 50 acres",
+        "completion": "2024"
+      },
+      {
+        "id": 4,
+        "title": "Smart Farming Implementation",
+        "location": "Meru County",
+        "description": "Implementation of IoT sensors and automated systems for precision farming, resulting in 40% reduction in input costs",
+        "image": "/src/assets/images/smart farm 1.jpeg",
+        "category": "Smart Farming",
+        "results": "40% reduction in input costs",
+        "completion": "2024"
+      }
+    ],
+    "testimonials": [
+      {
+        "id": 1,
+        "name": "John Kamau",
+        "role": "Owner, Green Valley Farms",
+        "content": "The drip irrigation system installed by Agrishan has transformed our farm. Water efficiency improved dramatically, and our crop yield increased by 80%. Their expertise and professional service are unmatched.",
+        "image": "/src/assets/images/client 1.jpeg",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "name": "Sarah Mwangi",
+        "role": "Director, Highlands Greenhouse",
+        "content": "Agrishan's greenhouse construction expertise is exceptional. The structure has helped us extend our growing season and increase production. Their after-sales support is outstanding.",
+        "image": "/src/assets/images/client 3.jpeg",
+        "rating": 5
+      },
+      {
+        "id": 3,
+        "name": "David Ochieng",
+        "role": "CEO, Farmtech Solutions",
+        "content": "As an agricultural consultant, I've worked with many providers, but Agrishan stands out. Their technical expertise and commitment to quality have helped numerous farms improve yields significantly.",
+        "image": "/src/assets/images/client 2.jpeg",
+        "rating": 5
+      }
+    ]
+  }
